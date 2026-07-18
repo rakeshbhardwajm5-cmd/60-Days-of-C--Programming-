@@ -1,4 +1,4 @@
-#code simple code of C 
+####simple code of C ####
 #include<stdio.h>
 #include<stdlib.h>
 {
