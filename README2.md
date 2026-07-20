@@ -1,4 +1,4 @@
-# DAY 2
+#Day2
 char characterName[] = "Tom";
 int characterAge = 67;
 
