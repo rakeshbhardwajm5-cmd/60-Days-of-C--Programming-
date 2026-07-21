@@ -1,1 +1,6 @@
-
+# Day 3
+Today, I learned about data types in C and the different types of data types available.
+##printf()
+printf() is one of the most important functions in C. It is used to display (print) text, numbers, and other output on the screen.
+The program example for printf() is included in the Data_Type.c file.
+**Day by day, learning something new makes a difference...! 
